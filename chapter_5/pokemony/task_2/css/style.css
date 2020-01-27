@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(23, 243, 107);
+    margin: 0;
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.card {
+    list-style: none;
+    padding: 0px;
+    background-color:rgb(63, 137, 142);
+    color: white;
+    text-align: center;
+    
+}
+
+.card:hover {
+    cursor: pointer;
+}
+
+.card-title {
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: normal;
+    margin-bottom: 0;
+}
+
+.card-image {
+    height: 150px;
+}
+
+.container {
+    padding: 40px;
+    margin: 0 auto;
+    display: block;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 100px;
+}
+
+.popup {
+    position: fixed;
+    height: 45vh;
+    width: 30vw;
+    background: rgba(3, 114, 240, 0.897);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+}
+
+#closeBtn {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    border: none;
+    border-radius: 3px;
+}
+

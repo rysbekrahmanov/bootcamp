@@ -1,0 +1,46 @@
+{
+  "list": [
+    {
+      "name": "Jaman",
+      "lastName": "Jakshylykov",
+      "phone": "+996556213456",
+      "id": 1
+    },
+    {
+      "name": "Aldapsayar",
+      "lastName": "Berbesov",
+      "phone": "+996555123654",
+      "id": 2
+    },
+    {
+      "name": "Jizagul",
+      "lastName": "Aitpasova",
+      "phone": "+996502876346",
+      "id": 3
+    },
+    {
+      "name": "Bereber",
+      "lastName": "Bolosunov",
+      "phone": "+996777717173",
+      "id": 4
+    },
+    {
+      "name": "rys",
+      "lastName": "mas",
+      "phone": "090000399",
+      "id": 5
+    },
+    {
+      "name": "ali ",
+      "lastName": "alaudin",
+      "phone": "0998798790",
+      "id": 6
+    },
+    {
+      "name": "dj",
+      "lastName": "dwedddd",
+      "phone": "89898098",
+      "id": 7
+    }
+  ]
+}

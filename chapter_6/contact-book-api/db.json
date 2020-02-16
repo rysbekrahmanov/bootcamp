@@ -8,7 +8,7 @@
     },
     {
       "name": "Aldapsayar",
-      "lastName": "Berbesov",
+      "lastName": "Barbozov",
       "phone": "+996555123654",
       "id": 2
     },
@@ -35,12 +35,6 @@
       "lastName": "alaudin",
       "phone": "0998798790",
       "id": 6
-    },
-    {
-      "name": "dj",
-      "lastName": "dwedddd",
-      "phone": "89898098",
-      "id": 7
     }
   ]
 }

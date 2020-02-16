@@ -1,8 +1,6 @@
 import React from 'react';
 
-import AddTodo from './AddTodo';
-import List from '../List/List';
-
+import List from './components/List/List';
 
 class AddTodoList extends React.Component {
   state = {
@@ -22,7 +20,6 @@ class AddTodoList extends React.Component {
         <List
           data={this.state.data}
         />
-        <Modal />
       </div>
     )
   }
